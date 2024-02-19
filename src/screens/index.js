@@ -1,0 +1,6 @@
+export {default as Dureza} from './Dureza'
+export {default as Home} from './Home'
+export {default as Ph} from './Ph'
+export {default as Ventas} from './Ventas'
+export {default as Flujo} from './Flujo'
+export {default as Perfil} from './Perfil'
